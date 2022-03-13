@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Invicto2021/AndroidStudioProjects/Simulator2/app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Invicto2021/AndroidStudioProjects/Simulator2/app/src/main/res/drawable/ic_simulate.xml" value="0.2085" />
+        <entry key="..\:/Users/Invicto2021/AndroidStudioProjects/Simulator2/app/src/main/res/layout/activity_detail.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Invicto2021/AndroidStudioProjects/Simulator2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Invicto2021/AndroidStudioProjects/Simulator2/app/src/main/res/layout/match_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Invicto2021/AndroidStudioProjects/Simulator2/app/src/main/res/layout/matche_item.xml" value="0.25" />
       </map>
     </option>
   </component>
