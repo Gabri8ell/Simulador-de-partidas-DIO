@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944505743068",
+    "project_id": "simulador-de-partidas",
+    "storage_bucket": "simulador-de-partidas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944505743068:android:abb857af14821f48e43619",
+        "android_client_info": {
+          "package_name": "com.example.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944505743068-bq0nvmdsnep9bnab4oannjou7mn314d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH3hPdnigYEcw_8vN4EStQNSNadVfPoSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944505743068-bq0nvmdsnep9bnab4oannjou7mn314d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
